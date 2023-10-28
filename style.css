@@ -1,6 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Poppins:ital,wght@1,100;1,300;1,700&family=Qwitcher+Grypen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&family=Open+Sans:ital@1&family=Pixelify+Sans&family=Poppins:ital,wght@1,100;1,300;1,700&family=Qwitcher+Grypen:wght@400;700&family=Zilla+Slab&display=swap');
 *{
     margin: 0px;
     padding: 0px;
     text-decoration: none;
+}
+header{
+    text-align: center;
+}
+.section1{
+    text-align: center;
+}
+.section2{
+  text-align: center;
+}
+footer{
+    text-align: center;
+    padding-top: 4%;
+}
+.p1{
+    font-size: x-large;
+}
+p{
+margin-bottom: 1%;
+font-size: x-large;
+}
+img{
+    border-radius: 50px;
+    border: 1px solid rgb(245, 139, 58);
+    margin-bottom: 2%;
+}
+div{
+    font-size: 19px;
+}
+a:hover{
+text-decoration: underline;
+color: rgb(255, 242, 0);
+}
+a{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif");
+    background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  font-family: 'Pixelify Sans', sans-serif;
+}
+img:hover{
+    transform: scale(1.1);
+}
+h1{
+    font-family: 'Pixelify Sans', sans-serif;
 }
